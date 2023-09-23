@@ -1,0 +1,1 @@
+# Background-Subtraction-from-Video-using-Extended-Scale-Invariant-Local-Binary-Patterns
